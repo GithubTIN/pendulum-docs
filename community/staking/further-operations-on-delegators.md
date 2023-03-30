@@ -12,7 +12,7 @@ The new stake will be PreviousStake **± amount**
 ## Leaving delegator
 
 1. Navigate to the extrinsics tab
-2. Select the `leaveDelegators()` action
+2. Select the `parachainStaking -> leaveDelegators()` action
 3. Submit the Transaction
 
 ## Unlocking Tokens
